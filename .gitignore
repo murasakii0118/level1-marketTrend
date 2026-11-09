@@ -1,0 +1,19 @@
+# 编译产物
+build/
+build-mingw/
+*.exe
+*.o
+*.obj
+*.a
+
+# 运行产物
+level1/
+*.log
+*.pid
+*.stop
+
+# 本地临时配置
+settings.test.json
+
+# 文档（不入库）
+introduction.md

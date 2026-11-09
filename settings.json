@@ -1,0 +1,16 @@
+{
+  "output_dir": "level1",
+  "flush_interval_sec": 15,
+  "ws_url": "wss://w-base-common.10jqka.com.cn/ws?platform=hxkline&gpid=2",
+  "push_level": 3,
+  "lang": "en_us",
+  "trade_class": "intraday",
+  "sessions": [
+    { "start": "09:15", "end": "11:30" },
+    { "start": "13:00", "end": "15:00" }
+  ],
+  "workdays": [1, 2, 3, 4, 5],
+  "holidays": [],
+  "reconnect_delay_sec": 3,
+  "restart_delay_sec": 3
+}
